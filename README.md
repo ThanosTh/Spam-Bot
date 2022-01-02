@@ -22,7 +22,9 @@ pip install pyautogui
 
 Or if you're on a mac or linux:
 
-```pip3 install pyautogui```
+```console
+pip3 install pyautogui
+```
 
 ### **How to use it**
 
