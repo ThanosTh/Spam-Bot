@@ -14,12 +14,15 @@ If you haven't installed python you can install it from [Python's website](https
 
 Then you must have the **pyautogui library installed**
 
-If you haven't. Write this command in the command prompt
+If you haven't. Write this command in the command prompt on windows:
 
 ```console
 pip install pyautogui
 ```
 
+Or if you're on a mac or linux:
+
+```pip3 install pyautogui```
 
 ### **How to use it**
 
